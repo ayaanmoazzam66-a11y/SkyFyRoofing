@@ -1,0 +1,6 @@
+{
+  "name": "SkyFy Roofing",
+  "description": "Residential and commercial roofing services, free estimates, Whop Payments checkout, and deposit-to-final-invoice project billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
